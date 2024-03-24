@@ -2,4 +2,5 @@
 What will AGI or ASI technology be like in the future!
 How far in the near future wiill we achieve AGI or ASI technology!
 
-The rumour is that OpenAi already, as at 2023, have achieved AGI.
+The rumour is that OpenAi already, as at 2023, have achieved AGI, with a method or some 
+advance reasoning algorithm called Q* (pronounced: Q star).
